@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Tran Bao Ngoc Nguyen
-- 👀 I’m interested in Computer Science and Engineering, especially in Java, Java Script, C, C++, C#, Python, CSS, Microsoft, etc
-- 🌱 I’m currently learning Bachelor degree in CSE major at UT
+- 👋 Please to meet everyone. Welcome to my Coding World !!!
+- 👀 I’m Tran Bao Ngoc Nguyen and I'm currently a Junior at the University of Toledo majoring in Bachelor degree in CSE.
+- 👀 At the moment, I know how to code with Java, Java Script, C(beginner), C++(beginner), C#, Python, CSS, React, etc.
+- 🌱 I am learning front-end development at the moment. However, I wish to become a full-stack developer in the future so that I will have to try my best to learn back-end. I am willing to listen to your experience in learning and improving coding skills, finding and interviewing for interns/coops/jobs, and your living advice as well.
 - 💞️ I’m looking to collaborate on projects relating to Computer Science/Engineering and STEM.
 - 📫 We can communicate with me throught github. It is my pleasure to meet and chat with you :3
 
