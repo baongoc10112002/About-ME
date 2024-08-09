@@ -7,7 +7,9 @@
 - 📫 Learning is always a lifelong journey. Hope everyone here gets the best result for your sweat and effort! Let's help each other move forward and we all can meet at the top of the mountain <3 <3 <3 
 
 --------------------------------------------------------- FROM ME TO YOU! ----------------------------------------------------------------------
+
 Hello World! 🌟
+
 Welcome to my GitHub portfolio! I'm Ngoc, a passionate software engineer with a love for crafting elegant and efficient solutions to complex problems. 🚀
 
 From developing sleek web applications to optimizing intricate algorithms, I thrive on turning innovative ideas into tangible, high-impact software. With a keen eye for detail and a commitment to continuous learning, I dive into each project with enthusiasm and a drive for excellence.
